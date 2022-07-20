@@ -1,4 +1,4 @@
-### Olá! Eu sou o Daniel Caboclo 👋
+### Olá! Eu sou o Daniel Kaboclo 👋
 
 
 - 🌱 Estudando JavaScript/React.JS e Node.JS
