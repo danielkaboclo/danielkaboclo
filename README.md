@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel Kaboclo 👋
 
 
-- 🌱 Estudando JavaScript/React.JS e Node.JS
+- 🌱 Estudando HTML | CSS | SASS |JavaScript
 - 📫 Contate-me no email: daniel.caboclo16@gmail.com
 - 😄 Pronomes: ele/dele
 
