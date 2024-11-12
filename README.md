@@ -1,4 +1,4 @@
-### Olá! Eu sou o Daniel Kaboclo 👋
+### Olá! Eu sou o Daniel Caboclo 👋
 
 
 - 🌱 Estudando HTML | CSS | SASS |JavaScript
