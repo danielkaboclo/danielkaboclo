@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel Caboclo 👋
 
 
-- 🌱 Estudando HTML | CSS | SASS |JavaScript | Java
+- 🌱 Estudando Banco de Dados | Java | Python | Pandas 
 - 📫 Contate-me no email: daniel.caboclo16@gmail.com
 
 
