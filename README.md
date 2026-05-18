@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Daniel Caboclo 👋
 
 <p>
-🎓 Estudante de Arquitetura de Dados e Análise de Dados <br>
-🌱 Aprendendo Python, Pandas, SQL e automação de pipelines de dados <br>
+🎓 Graduando em Arquitetura de Dados <br>
+🌱 Estudando Python, Pandas, SQL e automação de pipelines de dados <br>
 📊 Desenvolvendo projetos de ETL, dashboards e visualização de dados <br>
 📫 Contato: daniel.caboclo16@gmail.com
 </p>
